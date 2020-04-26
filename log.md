@@ -25,4 +25,4 @@ Started with taking a look into the dataset. Prepared a data cleaning pipeline.
 **(b) Thoughts/Insights:**
 Preliminary look into the data indicates few tidying up of values and dropping of unwanted features.
 
-**(c) Link to code:** [Data Cleaning Report](https://veena-muralidharan.rstudio.cloud/5064d3d388a54df4ae9fa0eeece6a600/?view=rmarkdown)
+**(c) Link to code:** [Data Cleaning Report](reports/01_Data Cleaning_Report.pdf)
