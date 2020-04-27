@@ -26,3 +26,12 @@ Started with taking a look into the dataset. Prepared a data cleaning pipeline.
 Preliminary look into the data indicates few tidying up of values and dropping of unwanted features.
 
 **(c) Link to code:** [Data Cleaning Report](https://rpubs.com/veena_mu/report)
+
+## Day 1- 27 April, 2020
+**(a) Today's Progress:**
+Fixing errors in the variables.
+
+**(b) Thoughts/Insights:**
+Using case_when function from dplyr package which makes it very convenient to run multiple if_else statements.
+
+**(c) Link to code:** [Data Cleaning Report](https://rpubs.com/veena_mu/report)
