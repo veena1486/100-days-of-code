@@ -35,3 +35,10 @@ Fixing errors in the variables.
 Using case_when function from dplyr package which makes it very convenient to run multiple if_else statements.
 
 **(c) Link to code:** [Data Cleaning Report](https://rpubs.com/veena_mu/report)
+
+## Day 2- 28 April, 2020
+**(a) Today's Progress:**
+Merged the clean dataset into a semi-refined dataset for further data exploration and feature selection/transformation.
+
+**(b) Thoughts/Insights:**
+Learned how to merge multiple datasets by multiple parameters using the join function in R. 
