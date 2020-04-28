@@ -1,6 +1,7 @@
 # 100 Days of Code- Log
 ## *data exploration, machine learning, spatial analytics, deep learning*
 **(a) Data:** Kaggle Challenge: ROCHE DATA SCIENCE COALITION- Uncover COVID-19
+
 **(b) Coding Plan:** 
 (1) Data Wrangling:
 Tidying up the dataset with
