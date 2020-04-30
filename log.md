@@ -44,3 +44,16 @@ Merged the clean dataset into a semi-refined dataset for further data exploratio
 
 **(b) Thoughts/Insights:**
 Learned how to merge multiple datasets by multiple parameters using the join function in R. 
+
+## Day 3- 29 April, 2020
+**(a) Today's Progress:**
+Scrapped the merged file as the data seemed too complex to derive any insights. Started focusingon the COVID cases reported by WHO. Tried to fix the missing data values. 
+**(b) Thoughts/Insights:**
+Realised that I would need to first anaylse the datasets in silo and derive valuable features and then join those features to create a better dataset for the model.
+
+## Day 4- 30 April, 2020
+**(a) Today's Progress:**
+Used replace_na to replace the missing values. Decided to deconstruct the task 1 question into multiple questions so as to build a valuable dataset. Focussed on identifying the trends in covid cases by date and country. 
+**(b) Thoughts/Insights:**
+Realised the importance of zoning on the problem question and deconstruct it into simpler queries so as to understand the data thoroughly.
+. 
