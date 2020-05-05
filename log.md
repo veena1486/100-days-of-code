@@ -56,4 +56,16 @@ Realised that I would need to first anaylse the datasets in silo and derive valu
 Used replace_na to replace the missing values. Decided to deconstruct the task 1 question into multiple questions so as to build a valuable dataset. Focussed on identifying the trends in covid cases by date and country. 
 **(b) Thoughts/Insights:**
 Realised the importance of zoning on the problem question and deconstruct it into simpler queries so as to understand the data thoroughly.
+
+## Day 5- 01 May, 2020
+**(a) Today's Progress:**
+Was able to create a web scraping code to extract population data. 
+**(b) Thoughts/Insights:**
+Learned how to scrape valuable information from the web. However, this was a very basic code and need to look into more scaleable version.
+
+## Day 06- 04 May, 2020
+**(a) Today's Progress:**
+Getting stuck in visualizing the data. The data seems to have some false values.
+**(b) Thoughts/Insights:**
+Back to cleaning the data. Trying to learn replace function of R.
 . 
