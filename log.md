@@ -1,4 +1,4 @@
-# 100 Days of Code- Log
+# 100 Days of Data Science- Log
 ## *data exploration, machine learning, spatial analytics, deep learning*
 **(a) Data:** Kaggle Challenge: ROCHE DATA SCIENCE COALITION- Uncover COVID-19
 
@@ -20,6 +20,7 @@ Coding tasks to be performed:
 - Variable Transformation
 - New Variable Creation
 
+## (I) Data Wrangling & Manipulation
 ## Day 0- 26 April, 2020
 **(a) Today's Progress:**
 Started with taking a look into the dataset. Prepared a data cleaning pipeline.
