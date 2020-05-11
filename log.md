@@ -74,4 +74,11 @@ Getting stuck in visualizing the data. The data seems to have some false values.
 
 **(b) Thoughts/Insights:**
 Back to cleaning the data. Trying to learn replace function of R.
+
+## Day 07- 11 May, 2020
+**(a) Today's Progress:**
+Started working on the challenge after a few days break as I was not getting any further with the data I had. I realised that the data was incorrect and was spending too much time cleaning the wrong dataset. Learning alert: Need to always verify the data properly before investing so much time on data cleaning. As the data had wrong information, I was getting stuck in my visualization. However, after verifying the data now I am able to properly explore and gain right insights into my data. Now, I am able to use the lubridate and forcats package properly to create valuable plots for my data exploration.
+
+**(b) Thoughts/Insights:**
+Always spend time initially to verify the data source and its validity as it may throw you off entirely from your analysis.
 . 
