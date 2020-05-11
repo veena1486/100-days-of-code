@@ -1,5 +1,5 @@
 # 100 Days of Data Science- Log
-## *data exploration, machine learning, spatial analytics, deep learning*
+#### *data exploration, machine learning, spatial analytics, deep learning*
 **(a) Data:** Kaggle Challenge: ROCHE DATA SCIENCE COALITION- Uncover COVID-19
 
 **(b) Coding Plan:** 
@@ -20,6 +20,7 @@ Coding tasks to be performed:
 - Variable Transformation
 - New Variable Creation
 
+# Data Science Workflow
 ## (I) Data Wrangling & Manipulation
 ## Day 0- 26 April, 2020
 **(a) Today's Progress:**
