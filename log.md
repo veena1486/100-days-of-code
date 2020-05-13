@@ -81,4 +81,11 @@ Started working on the challenge after a few days break as I was not getting any
 
 **(b) Thoughts/Insights:**
 Always spend time initially to verify the data source and its validity as it may throw you off entirely from your analysis.
-. 
+
+## (II) Data Exploration
+## Day 08- 12 May, 2020
+**(a) Today's Progress:**
+After manipulating the data, I started exploring the COVID-19 cases globally. Learned how to use ggplot in R to visualize the core data in terms of the daily trends in confirmed cases, deaths due to the pandemic as well as the trend in recovery cases.
+
+**(b) Thoughts/Insights:**
+It is alarming to see the increasing daily trends but there seem to be silver lining as the trend is similar in case of the daily recoveries as well. 
