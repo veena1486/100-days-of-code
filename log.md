@@ -89,3 +89,18 @@ After manipulating the data, I started exploring the COVID-19 cases globally. Le
 
 **(b) Thoughts/Insights:**
 It is alarming to see the increasing daily trends but there seem to be silver lining as the trend is similar in case of the daily recoveries as well. 
+
+## Day 09- 13 May, 2020
+**(a) Today's Progress:**
+Performed univariate analysis. Initially created histograms to view the distibution of the data for each variable- total confirmed cases, total death & total recovered cases. The data shows skewed distribution. 
+
+**(b) Thoughts/Insights:**
+Need to check the distribution further. 
+
+## Day 09- 14 May, 2020
+**(a) Today's Progress:**
+Performed bivariate analysis. Created boxplots to detect the outliers. Created boxplots region wise and country wise.  
+
+**(b) Thoughts/Insights:**
+None.
+
