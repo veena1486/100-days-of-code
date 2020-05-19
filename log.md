@@ -107,4 +107,11 @@ Learned how to create heatmaps in ggplot as well as learned to create interactiv
 **(b) Thoughts/Insights:**
 It was quite exhilarating experience to finally be able to create an interactive plot. However, still need to learn to format the graph a little better for publication purpose.
 
+## Day 11- 19 May, 2020
+**(a) Today's Progress:**
+Struggling with adding labels to the time series plot. I am trying to use the ggrepel package to label the trendlines for each country. However, it's not providing the result as expected. So, exploration continues!!
+
+**(b) Thoughts/Insights:**
+Certain codes work beautifully and immediately while some make you weep. Currently, I am struggling with the seemingly most simple package. I must be missing something.
+
 
