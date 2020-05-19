@@ -100,3 +100,11 @@ Performed bivariate analysis. Created boxplots to detect the outliers. Created b
 **(b) Thoughts/Insights:**
 None.
 
+## Day 10- 18 May, 2020
+**(a) Today's Progress:**
+Learned how to create heatmaps in ggplot as well as learned to create interactive time-series plot using plotly. 
+
+**(b) Thoughts/Insights:**
+It was quite exhilarating experience to finally be able to create an interactive plot. However, still need to learn to format the graph a little better for publication purpose.
+
+
