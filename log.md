@@ -114,4 +114,11 @@ Struggling with adding labels to the time series plot. I am trying to use the gg
 **(b) Thoughts/Insights:**
 Certain codes work beautifully and immediately while some make you weep. Currently, I am struggling with the seemingly most simple package. I must be missing something.
 
+## Day 12- 01 June, 2020
+**(a) Today's Progress:**
+Today completed creating a final dataset for continuing with my Data Science Project. Data Cleaning is one major task. It took up so much of my time to just get the data in an understandable format. I think real world data would be more messier that this. The Kaggle COVID dataset has surely given me the much needed exercise on data cleaning.
+
+**(b) Thoughts/Insights:**
+It is so very true!! Data Science is not just all about algorithms. Without clean dataset, your algorithms will not be of any help and cleaning the data is one hell of an exercise. Phew!!! Glad to be done with it for now!!! Next stop- Exploration and Visualization.
+
 
