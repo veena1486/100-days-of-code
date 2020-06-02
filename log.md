@@ -121,4 +121,10 @@ Today completed creating a final dataset for continuing with my Data Science Pro
 **(b) Thoughts/Insights:**
 It is so very true!! Data Science is not just all about algorithms. Without clean dataset, your algorithms will not be of any help and cleaning the data is one hell of an exercise. Phew!!! Glad to be done with it for now!!! Next stop- Exploration and Visualization.
 
+## Day 13- 02 June, 2020
+**(a) Today's Progress:**
+Finally! Started working on the exploratory data analysis(EDA) pipeline using GGally and skimr packages.
+**(b) Thoughts/Insights:**
+This is very neat. In just two lines of code, I am able to explore the data based on data types and also get an descriptive summary of my features.
+
 
