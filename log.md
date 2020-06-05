@@ -130,6 +130,7 @@ This is very neat. In just two lines of code, I am able to explore the data base
 ## Day 14- 05 June, 2020
 **(a) Today's Progress:**
 Today I worked creating feature visualization using GGally and also worked on building the data processing pipeline using functional programming in R.
+
 **(b) Thoughts/Insights:**
 I realise that my progress is pretty slow!! A snail would overtake me!! But that's OK. My foundations are getting built and its better to invest more time on building the foundations than rushing through to just build a project and not understanding the results at all.
 
