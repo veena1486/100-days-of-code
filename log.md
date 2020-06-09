@@ -134,4 +134,10 @@ Today I worked creating feature visualization using GGally and also worked on bu
 **(b) Thoughts/Insights:**
 I realise that my progress is pretty slow!! A snail would overtake me!! But that's OK. My foundations are getting built and its better to invest more time on building the foundations than rushing through to just build a project and not understanding the results at all.
 
+## (I) Data Wrangling & Manipulation
+## Day 15- 09 June, 2020
+**(a) Today's Progress:**
+Went back to the Data Wrangling process to create a structured pipeline for data wrangling. Otherwise, my code was becoming too long, repetitive and confusing.
 
+**(b) Thoughts/Insights:**
+Finally, understood how to do functional programming in R. It makes the entire process so much easier as I don't have repeat the same process whenever new data comes in. Now, just need to figure out same in Python.
