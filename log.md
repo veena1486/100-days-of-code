@@ -141,3 +141,11 @@ Went back to the Data Wrangling process to create a structured pipeline for data
 
 **(b) Thoughts/Insights:**
 Finally, understood how to do functional programming in R. It makes the entire process so much easier as I don't have repeat the same process whenever new data comes in. Now, just need to figure out same in Python.
+
+## (I) Data Understanding
+## Day 16- 26 June, 2020
+**(a) Today's Progress:**
+I know it's been a long break from working on my project. But after a lot of back & forth of learning, I have finally started with the pre-processing of my data. Initially, I planned to use the recipes package to pre-process my data but I felt that I first need to do each step manually so that I can understand the process entirely. 
+
+**(b) Thoughts/Insights:**
+So, I finally learned how to impute for missing values in my data as well as understood the difference between label encoding and one hot encoding.
